@@ -29,7 +29,7 @@ In most cases, you'll be guided to re use a solution from a previously accomplis
 -       Locating resctriction sites: http://rosalind.info/problems/revp/
 -       Wobble Bonding and RNA Secondary Structures: http://rosalind.info/problems/rnas/
 
-Soup 3: Computational mass spectrometry, Graph algorithm
+### Soup 3: Computational mass spectrometry, Graph algorithm
 
 -       Counting DNA nucleotides : http://rosalind.info/problems/dna/
 -       Transcribing DNA into RNA: http://rosalind.info/problems/rna/
