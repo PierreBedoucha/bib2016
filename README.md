@@ -5,12 +5,12 @@ The exercises are taken from Rosaling website - http://rosalind.info/problems/li
 You can complete any exercise from any soup at any time. 
 There will be some substantial bonus for the teams which manage to get all the exercises of a given soup.
 
-Exercise soups
+## Exercise soups
 
 The 'soups' - pool of exercises - have been designed so that the exercises follow a progression path. 
 In most cases, you'll be guided to re use a solution from a previously accomplished exercise.
 
-Soup 1: Set theory, Genetic fingerprinting
+### Soup 1: Set theory, Genetic fingerprinting
 
 -       Counting DNA nucleotides : http://rosalind.info/problems/dna/
 -       Transcribing DNA into RNA: http://rosalind.info/problems/rna/
@@ -20,7 +20,7 @@ Soup 1: Set theory, Genetic fingerprinting
 -       Expected Number of Restriction Sites: http://rosalind.info/problems/eval/
 -       Creating a restriction map: http://rosalind.info/problems/pdpl/
 
-Soup 2: Combinatorics, RNA secondary structure
+### Soup 2: Combinatorics, RNA secondary structure
 
 -       Counting DNA nucleotides : http://rosalind.info/problems/dna/
 -       Transcribing DNA into RNA: http://rosalind.info/problems/rna/
@@ -40,7 +40,7 @@ Soup 3: Computational mass spectrometry, Graph algorithm
 -       Inferring peptide from full spectrum: http://rosalind.info/problems/full/
 -       Using the spectrum graph to infer peptides: http://rosalind.info/problems/sgra/
 
-Soup 4: Heredity, Probability
+### Soup 4: Heredity, Probability
 
 -       Counting DNA nucleotides : http://rosalind.info/problems/dna/
 -       Transcribing DNA into RNA: http://rosalind.info/problems/rna/
@@ -52,7 +52,7 @@ Soup 4: Heredity, Probability
 -       Counting disease carrier: http://rosalind.info/problems/afrq/
 -       Sex-linked inheritance: http://rosalind.info/problems/sexl/
 
-Soup 5: String Algorithm
+### Soup 5: String Algorithm
 
 -       Counting DNA nucleotides : http://rosalind.info/problems/dna/
 -       Transcribing DNA into RNA: http://rosalind.info/problems/rna/
@@ -63,7 +63,7 @@ Soup 5: String Algorithm
 -       Finding disjoint motifs ina gene: http://rosalind.info/problems/itwv/
 
 
-Grading 
+## Grading 
 
 The grading is organised as follows:
 - The first 3 exercies are 2 points each
