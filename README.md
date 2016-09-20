@@ -66,7 +66,7 @@ In most cases, you'll be guided to re use a solution from a previously accomplis
 ## Grading 
 
 The grading is organised as follows:
-- The first 3 exercies are 2 points each
+- The first 3 exercies are 2 points each and you cannot repeat them from several soups. They will be graded only once.
 - The next exercises up until the last 2 exercies are 6 points each
 - The last 2 exercises are 25 points each
 - Bonus: Completing a soup in it's entirety rewards 50 points
