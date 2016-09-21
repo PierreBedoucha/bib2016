@@ -15,51 +15,51 @@ In most cases, you'll be guided to re use a solution from a previously accomplis
 -       Counting DNA nucleotides : http://rosalind.info/problems/dna/ :white_check_mark:
 -       Transcribing DNA into RNA: http://rosalind.info/problems/rna/ :white_check_mark:
 -       Complementing a Strand of DNA: http://rosalind.info/problems/revc/ :white_check_mark:
--       Mendel's First Law: http://rosalind.info/problems/iprb/
--       Calculating Expected Offspring: http://rosalind.info/problems/iev/
--       Expected Number of Restriction Sites: http://rosalind.info/problems/eval/ 
+-       Mendel's First Law: http://rosalind.info/problems/iprb/ :fast_forward:
+-       Calculating Expected Offspring: http://rosalind.info/problems/iev/ :sos:
+-       Expected Number of Restriction Sites: http://rosalind.info/problems/eval/ :sos:
 
 ### Soup 2: Combinatorics, RNA secondary structure
 
--       Counting DNA nucleotides : http://rosalind.info/problems/dna/
--       Transcribing DNA into RNA: http://rosalind.info/problems/rna/
--       Complementing a Strand of DNA: http://rosalind.info/problems/revc/
--       Finding a Motif in DNA: http://rosalind.info/problems/subs/
--       Locating resctriction sites: http://rosalind.info/problems/revp/
--       Wobble Bonding and RNA Secondary Structures: http://rosalind.info/problems/rnas/
+-       Counting DNA nucleotides : http://rosalind.info/problems/dna/ :white_check_mark:
+-       Transcribing DNA into RNA: http://rosalind.info/problems/rna/ :white_check_mark:
+-       Complementing a Strand of DNA: http://rosalind.info/problems/revc/ :white_check_mark:
+-       Finding a Motif in DNA: http://rosalind.info/problems/subs/ :fast_forward:
+-       Locating resctriction sites: http://rosalind.info/problems/revp/ :fast_forward:
+-       Wobble Bonding and RNA Secondary Structures: http://rosalind.info/problems/rnas/ :sos:
 
 ### Soup 3: Computational mass spectrometry, Graph algorithm
 
--       Counting DNA nucleotides : http://rosalind.info/problems/dna/
--       Transcribing DNA into RNA: http://rosalind.info/problems/rna/
--       Complementing a Strand of DNA: http://rosalind.info/problems/revc/
--       Translating RNA into Protein: http://rosalind.info/problems/prot/
--       Calculating protein mass: http://rosalind.info/problems/prtm/
--       Inferring protein from spectrum: http://rosalind.info/problems/spec/
--       Inferring peptide from full spectrum: http://rosalind.info/problems/full/
--       Using the spectrum graph to infer peptides: http://rosalind.info/problems/sgra/
+-       Counting DNA nucleotides : http://rosalind.info/problems/dna/ :white_check_mark:
+-       Transcribing DNA into RNA: http://rosalind.info/problems/rna/ :white_check_mark:
+-       Complementing a Strand of DNA: http://rosalind.info/problems/revc/ :white_check_mark:
+-       Translating RNA into Protein: http://rosalind.info/problems/prot/ :fast_forward:
+-       Calculating protein mass: http://rosalind.info/problems/prtm/ :fast_forward:
+-       Inferring protein from spectrum: http://rosalind.info/problems/spec/ :sos:
+-       Inferring peptide from full spectrum: http://rosalind.info/problems/full/ :sos:
+-       Using the spectrum graph to infer peptides: http://rosalind.info/problems/sgra/ :sos:
 
 ### Soup 4: Heredity, Probability
 
--       Counting DNA nucleotides : http://rosalind.info/problems/dna/
--       Transcribing DNA into RNA: http://rosalind.info/problems/rna/
--       Complementing a Strand of DNA: http://rosalind.info/problems/revc/
--       Counting point mutation: http://rosalind.info/problems/hamm/
--       Consensus and profile: http://rosalind.info/problems/cons/
--       Introduction to random strings: http://rosalind.info/problems/prob/
--       Independent segregation of chromosomes: http://rosalind.info/problems/indc/
--       Counting disease carrier: http://rosalind.info/problems/afrq/
--       Sex-linked inheritance: http://rosalind.info/problems/sexl/
+-       Counting DNA nucleotides : http://rosalind.info/problems/dna/ :white_check_mark:
+-       Transcribing DNA into RNA: http://rosalind.info/problems/rna/ :white_check_mark:
+-       Complementing a Strand of DNA: http://rosalind.info/problems/revc/ :white_check_mark:
+-       Counting point mutation: http://rosalind.info/problems/hamm/ :fast_forward:
+-       Consensus and profile: http://rosalind.info/problems/cons/ :fast_forward:
+-       Introduction to random strings: http://rosalind.info/problems/prob/ :fast_forward:
+-       Independent segregation of chromosomes: http://rosalind.info/problems/indc/ :fast_forward:
+-       Counting disease carrier: http://rosalind.info/problems/afrq/ :sos:
+-       Sex-linked inheritance: http://rosalind.info/problems/sexl/ :sos:
 
 ### Soup 5: String Algorithm
 
--       Counting DNA nucleotides : http://rosalind.info/problems/dna/
--       Transcribing DNA into RNA: http://rosalind.info/problems/rna/
--       Complementing a Strand of DNA: http://rosalind.info/problems/revc/
--       Finding a Motif in DNA: http://rosalind.info/problems/subs/
--       RNA splicing: http://rosalind.info/problems/splc/
--       Introduction to pattern matching: http://rosalind.info/problems/trie/
--       Finding disjoint motifs ina gene: http://rosalind.info/problems/itwv/
+-       Counting DNA nucleotides : http://rosalind.info/problems/dna/ :white_check_mark:
+-       Transcribing DNA into RNA: http://rosalind.info/problems/rna/ :white_check_mark:
+-       Complementing a Strand of DNA: http://rosalind.info/problems/revc/ :white_check_mark:
+-       Finding a Motif in DNA: http://rosalind.info/problems/subs/ :fast_forward:
+-       RNA splicing: http://rosalind.info/problems/splc/ :fast_forward:
+-       Introduction to pattern matching: http://rosalind.info/problems/trie/ :sos:
+-       Finding disjoint motifs ina gene: http://rosalind.info/problems/itwv/ :sos:
 
 
 ## Grading 
