@@ -17,8 +17,11 @@ In most cases, you'll be guided to re use a solution from a previously accomplis
 -       Complementing a Strand of DNA: http://rosalind.info/problems/revc/
 -       Mendel's First Law: http://rosalind.info/problems/iprb/
 -       Calculating Expected Offspring: http://rosalind.info/problems/iev/
+```html
+   // code for coloring
+#FF0000
 -       Expected Number of Restriction Sites: http://rosalind.info/problems/eval/
-
+```
 ### Soup 2: Combinatorics, RNA secondary structure
 
 -       Counting DNA nucleotides : http://rosalind.info/problems/dna/
