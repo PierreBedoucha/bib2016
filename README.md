@@ -122,10 +122,10 @@ Sample and randomly generated datasets for input AND output are available on thi
 ## Grading 
 
 The grading is organised as follows:
-- The first 3 exercies are 2 points each and you cannot repeat them from several soups. They will be graded only once.
-- The next exercises up until the last 2 exercies are 6 points each
-- The last 2 exercises are 25 points each
-- Bonus: Completing a soup in it's entirety rewards 50 points
+- The first 3 exercises are 10 points each and you cannot repeat them from several soups. They will be graded only once.
+- The next exercises up until the last 2 exercises are 20 points each
+- The last 2 exercises are 100 points each
+- Bonus: Completing a soup in it's entirety rewards 500 points
 
 The team which has the higher score wins
 
