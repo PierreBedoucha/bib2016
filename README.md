@@ -12,16 +12,13 @@ In most cases, you'll be guided to re use a solution from a previously accomplis
 
 ### Soup 1: Set theory, Genetic fingerprinting
 
--       Counting DNA nucleotides : http://rosalind.info/problems/dna/
--       Transcribing DNA into RNA: http://rosalind.info/problems/rna/
--       Complementing a Strand of DNA: http://rosalind.info/problems/revc/
+-       Counting DNA nucleotides : http://rosalind.info/problems/dna/ :white_check_mark:
+-       Transcribing DNA into RNA: http://rosalind.info/problems/rna/ :white_check_mark:
+-       Complementing a Strand of DNA: http://rosalind.info/problems/revc/ :white_check_mark:
 -       Mendel's First Law: http://rosalind.info/problems/iprb/
 -       Calculating Expected Offspring: http://rosalind.info/problems/iev/
-```html
-   // code for coloring
-#FF0000
--       Expected Number of Restriction Sites: http://rosalind.info/problems/eval/
-```
+-       Expected Number of Restriction Sites: http://rosalind.info/problems/eval/ 
+
 ### Soup 2: Combinatorics, RNA secondary structure
 
 -       Counting DNA nucleotides : http://rosalind.info/problems/dna/
