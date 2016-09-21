@@ -17,17 +17,17 @@ In most cases, you'll be guided to re use a solution from a previously accomplis
 -       Complementing a Strand of DNA: http://rosalind.info/problems/revc/ :white_check_mark:
 -       Mendel's First Law: http://rosalind.info/problems/iprb/ :fast_forward:
 -       Calculating Expected Offspring: http://rosalind.info/problems/iev/ :fast_forward:
-          - Counting Point Mutations: http://rosalind.info/problems/hamm/
-          - Finding a Motif in DNA: http://rosalind.info/problems/subs/
-          - Rabbits and Recurrence Relations: http://rosalind.info/problems/fib/
-          - Consensus and Profile: http://rosalind.info/problems/cons/
-          - Introduction to Random Strings: http://rosalind.info/problems/prob/
-          - Independent Alleles: http://rosalind.info/problems/lia/
-          - Translating RNA into Protein: http://rosalind.info/problems/prot/
-          - Open Reading Frames: http://rosalind.info/problems/orf/
-          - RNA Splicing: http://rosalind.info/problems/splc/
-          - Matching Random Motifs: http://rosalind.info/problems/rstr/
-          - Locating Restriction Sites: http://rosalind.info/problems/revp/
+  - Counting Point Mutations: http://rosalind.info/problems/hamm/
+  - Finding a Motif in DNA: http://rosalind.info/problems/subs/
+  - Rabbits and Recurrence Relations: http://rosalind.info/problems/fib/
+  - Consensus and Profile: http://rosalind.info/problems/cons/
+  - Introduction to Random Strings: http://rosalind.info/problems/prob/
+  - Independent Alleles: http://rosalind.info/problems/lia/
+  - Translating RNA into Protein: http://rosalind.info/problems/prot/
+  - Open Reading Frames: http://rosalind.info/problems/orf/
+  - RNA Splicing: http://rosalind.info/problems/splc/
+  - Matching Random Motifs: http://rosalind.info/problems/rstr/
+  - Locating Restriction Sites: http://rosalind.info/problems/revp/
 -       Expected Number of Restriction Sites: http://rosalind.info/problems/eval/ :sos:
 
 ### Soup 2: Combinatorics, RNA secondary structure
