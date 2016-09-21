@@ -18,7 +18,6 @@ In most cases, you'll be guided to re use a solution from a previously accomplis
 -       Mendel's First Law: http://rosalind.info/problems/iprb/
 -       Calculating Expected Offspring: http://rosalind.info/problems/iev/
 -       Expected Number of Restriction Sites: http://rosalind.info/problems/eval/
--       Creating a restriction map: http://rosalind.info/problems/pdpl/
 
 ### Soup 2: Combinatorics, RNA secondary structure
 
