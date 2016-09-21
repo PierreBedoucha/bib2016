@@ -16,7 +16,18 @@ In most cases, you'll be guided to re use a solution from a previously accomplis
 -       Transcribing DNA into RNA: http://rosalind.info/problems/rna/ :white_check_mark:
 -       Complementing a Strand of DNA: http://rosalind.info/problems/revc/ :white_check_mark:
 -       Mendel's First Law: http://rosalind.info/problems/iprb/ :fast_forward:
--       Calculating Expected Offspring: http://rosalind.info/problems/iev/ :sos:
+-       Calculating Expected Offspring: http://rosalind.info/problems/iev/ :fast_forward:
+          - Counting Point Mutations: http://rosalind.info/problems/hamm/
+          - Finding a Motif in DNA: http://rosalind.info/problems/subs/
+          - Rabbits and Recurrence Relations: http://rosalind.info/problems/fib/
+          - Consensus and Profile: http://rosalind.info/problems/cons/
+          - Introduction to Random Strings: http://rosalind.info/problems/prob/
+          - Independent Alleles: http://rosalind.info/problems/lia/
+          - Translating RNA into Protein: http://rosalind.info/problems/prot/
+          - Open Reading Frames: http://rosalind.info/problems/orf/
+          - RNA Splicing: http://rosalind.info/problems/splc/
+          - Matching Random Motifs: http://rosalind.info/problems/rstr/
+          - Locating Restriction Sites: http://rosalind.info/problems/revp/
 -       Expected Number of Restriction Sites: http://rosalind.info/problems/eval/ :sos:
 
 ### Soup 2: Combinatorics, RNA secondary structure
@@ -26,6 +37,11 @@ In most cases, you'll be guided to re use a solution from a previously accomplis
 -       Complementing a Strand of DNA: http://rosalind.info/problems/revc/ :white_check_mark:
 -       Finding a Motif in DNA: http://rosalind.info/problems/subs/ :fast_forward:
 -       Locating resctriction sites: http://rosalind.info/problems/revp/ :fast_forward:
+          - Overlap Graphs: http://rosalind.info/problems/grph/
+          - Rabbits and Recurrence Relations: http://rosalind.info/problems/fib/
+          - Perfect Matchings and RNA Secondary Structures: http://rosalind.info/problems/pmch/
+          - Catalan Numbers and RNA Secondary Structures: http://rosalind.info/problems/cat/
+          - Motzkin Numbers and RNA Secondary Structures: http://rosalind.info/problems/motz/
 -       Wobble Bonding and RNA Secondary Structures: http://rosalind.info/problems/rnas/ :sos:
 
 ### Soup 3: Computational mass spectrometry, Graph algorithm
